@@ -1,0 +1,33 @@
+_repo: Jos--Estev-o_28902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - De Magalhães Lima, Jaime
+    - Magalhães Lima, Jaime de
+    - Lima, Jayme de Magalhães
+    - Lima, Jaime de Magalhaes
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_bookshelf: PT Biografia
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28902'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Estêvão, José, 1809-1862'
+- !lcc 'DP'
+title: José Estevão
+url: http://www.gutenberg.org/ebooks/28902
